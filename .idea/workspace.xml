@@ -1,170 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="b9ed3feb-0a52-411c-ac6f-5e70f253211a" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OTRAndroidNative.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/FunctionalTestsWexConnectAndroid/CICDAndroid.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/FunctionalTestsWexConnectAndroid/WexConnectTabTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/SheelFleetNavigatorAndroid/ShellFleetNavigatorLoginTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/SmartHubAndroid/SmartHubLoginTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/androidCardClasses/ACHCardLogin.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/androidCardClasses/AccountPage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/androidCardClasses/CardDirectLoginPass.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/androidCardClasses/CardLoginPassSecureFuel.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/androidCardClasses/CardLoginPasscode.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/androidCardClasses/CardProgressSpinner.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/androidCardClasses/CreatePasscode.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/androidCardClasses/CreateProfile.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/androidCardClasses/DynamicPIN.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/androidCardClasses/FindFuelPage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/androidCardClasses/ForgotPINSeeContactFleetManager.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/androidCardClasses/ForgotPINorPasscode.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/androidCardClasses/GetACard.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/androidCardClasses/HomeLandingPage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/androidCardClasses/HomeLandingPageTestAll.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/androidCardClasses/InformationIcon.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/androidCardClasses/LogOutCardControl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/androidCardClasses/LoginFailVerification.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/androidCardClasses/MultiCardLoginCheck.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/androidCardClasses/MultiCardsLogin.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/androidCardClasses/MultiCardsRemoveCard.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/androidCardClasses/NewAccountPinOrPasscode.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/androidCardClasses/OnboardingScreens.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/androidCardClasses/OneTimeTransferFunds.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/androidCardClasses/OpenAndLoginCardControl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/androidCardClasses/OpenCardControlDirectLogin.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/androidCardClasses/ProgressSpinner.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/androidCardClasses/RateThisApp.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/androidCardClasses/RegisterCheckAndroid.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/androidCardClasses/RegisterCheckSmartFundsSide.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/androidCardClasses/RepeatDailyTransferFunds.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/androidCardClasses/RepeatMonthlyTransferFunds.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/androidCardClasses/RepeatOnceNewSFLoadedTransferFunds.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/androidCardClasses/RepeatWeeklyTransferFunds.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/androidCardClasses/RepoCardAndroid.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/androidCardClasses/ResetPinAndPasscodeFromProfilePage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/androidCardClasses/SearchAlongARoute.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/androidCardClasses/SearchNearby.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/androidCardClasses/SecureFuel.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/androidCardClasses/SecurityQuestionsAtempts.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/androidCardClasses/SecurityQuestionsFail.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/androidCardClasses/TransactionsPage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/androidCardClasses/TransferFunds.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/androidCarrierClasses/AccountTab.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/androidCarrierClasses/AccountTabManageYourProfile.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/androidCarrierClasses/AccountTransferToYourBank.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/androidCarrierClasses/AccountTransferToYourBankAddAccount.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/androidCarrierClasses/AutoAccountLoginPass.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/androidCarrierClasses/BillingTab.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/androidCarrierClasses/BiometricsCarrierControlAndroid.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/androidCarrierClasses/CardsOverviewCompany.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/androidCarrierClasses/CardsOverviewSmartfunds.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/androidCarrierClasses/CardsOverviewUniversal.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/androidCarrierClasses/CardsTab.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/androidCarrierClasses/CardsTabCompany.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/androidCarrierClasses/CardsTabUniversal.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/androidCarrierClasses/CreateMoneyCodeBillMeLater.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/androidCarrierClasses/CreateMoneyCodeDeductFeeNow.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/androidCarrierClasses/ElementID.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/androidCarrierClasses/LocalConfiguration.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/androidCarrierClasses/LoginCompanyCC.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/androidCarrierClasses/LoginFailVerificationCarrierControl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/androidCarrierClasses/LoginPassVerification.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/androidCarrierClasses/LoginPassVerificationCarrierControl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/androidCarrierClasses/LoginSubUserCarrierControl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/androidCarrierClasses/LoginUniversalCC.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/androidCarrierClasses/LogoutCarrierControl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/androidCarrierClasses/LogsGalaxyS5.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/androidCarrierClasses/MoneyCodesTab.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/androidCarrierClasses/OpenAndLoginCarrierControl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/androidCarrierClasses/OpenCarrierControlDirectLogin.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/androidCarrierClasses/OpenCompanyCC.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/androidCarrierClasses/OpenSubUserCarrierControl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/androidCarrierClasses/OpenUniversalCC.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/androidCarrierClasses/PayInvoiceBilling.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/androidCarrierClasses/ProgressSpinner.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/androidCarrierClasses/RejectsTab.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/androidCarrierClasses/RepoCarrierAndroid.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/androidCarrierClasses/ResetTestAccounts.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/androidCarrierClasses/TextBoxXpaths.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/androidCarrierClasses/WelcomeScreen.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/androidSharedClasses/AndroidLogs.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/androidSharedClasses/AndroidRecorder.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/androidSharedClasses/AppStringsAndroid.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/androidSharedClasses/AutoAccountSelector.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/androidSharedClasses/AutoFindLogin.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/androidSharedClasses/BiometricsAndroid.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/androidSharedClasses/Capabilities.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/androidSharedClasses/ConnectionHandler.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/androidSharedClasses/Encrypt.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/androidSharedClasses/EnvironmentPicker.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/androidSharedClasses/HelpScreen.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/androidSharedClasses/LoginInfo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/androidSharedClasses/MoveMouse.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/androidSharedClasses/PhonePicker.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/androidSharedClasses/ScrollOptions.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/androidSharedClasses/Sleep.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/androidSharedClasses/influxListener.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/cardControlAndroid/AutoAccountSmashLoginRun.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/cardControlAndroid/CICDAndroid.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/cardControlAndroid/CICDPickYourTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/cardControlAndroid/CICDSmashLoginAltTests.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/cardControlAndroid/EncryptRunner.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/cardControlAndroid/LoginSmokeTestRun.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/cardControlAndroid/NewCardLoginUnitTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/cardControlAndroid/RegressionTestRun.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/cardControlAndroid/UnitTestMultiCard.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/carrierControlAndroid/AutoAccountCardAndCarrierSmashRun2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/carrierControlAndroid/AutoAccountSmashLoginRun.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/carrierControlAndroid/LoginSmokeTestRun.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/carrierControlAndroid/RegressionRun.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/carrierControlAndroid/SmokeTestRun.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/functionalTestsCardControlAndroid/AccountPageRun.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/functionalTestsCardControlAndroid/AddDeleteMultiCard.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/functionalTestsCardControlAndroid/DynamicPINRun.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/functionalTestsCardControlAndroid/FindFuelPageRun.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/functionalTestsCardControlAndroid/ForceQuitRun.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/functionalTestsCardControlAndroid/HomePage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/functionalTestsCardControlAndroid/LoginScenariosRun.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/functionalTestsCardControlAndroid/MultiCardLogin.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/functionalTestsCardControlAndroid/OldMultiCardLogin.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/functionalTestsCardControlAndroid/Onboarding.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/functionalTestsCardControlAndroid/PasscodeFailFromLoginPage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/functionalTestsCardControlAndroid/PinAndPasswordFromProfileRun.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/functionalTestsCardControlAndroid/QuickLoginLogoutRun.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/functionalTestsCardControlAndroid/RegisterCheckRun.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/functionalTestsCardControlAndroid/ResetForgotPasscodeRun.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/functionalTestsCardControlAndroid/SecureFuelRun.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/functionalTestsCardControlAndroid/SetupProfileRun.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/functionalTestsCardControlAndroid/SmashLoginRun.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/functionalTestsCardControlAndroid/TransactionsPageRun.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/functionalTestsCardControlAndroid/TransferFundsRun.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/functionalTestsCarrierControlAndroid/AccountTabRun.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/functionalTestsCarrierControlAndroid/AutoAccountBillingTabRun.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/functionalTestsCarrierControlAndroid/AutoAccountMoneyCodesRun.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/functionalTestsCarrierControlAndroid/AutoAccountRejectsTabRun.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/functionalTestsCarrierControlAndroid/AutoAccountTabRun.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/functionalTestsCarrierControlAndroid/AutoCompanyCardOverviewRun.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/functionalTestsCarrierControlAndroid/BillingTabRun.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/functionalTestsCarrierControlAndroid/CardsTabRun.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/functionalTestsCarrierControlAndroid/CompanyCardOverviewRun.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/functionalTestsCarrierControlAndroid/ForceQuitRun.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/functionalTestsCarrierControlAndroid/LoginScenariosRun.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/functionalTestsCarrierControlAndroid/ManageYourProfileRun.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/functionalTestsCarrierControlAndroid/MoneyCodesRun.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/functionalTestsCarrierControlAndroid/QuickLoginLogoutRun.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/functionalTestsCarrierControlAndroid/RejectsTabRun.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/functionalTestsCarrierControlAndroid/SmartFundsCardOverviewRun.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/functionalTestsCarrierControlAndroid/TransferToBankRun.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/functionalTestsCarrierControlAndroid/TryAutoFindLoginRun.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/functionalTestsCarrierControlAndroid/UniversalCardOverviewRun.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/local_config.properties" afterDir="false" />
+    <list default="true" id="b9ed3feb-0a52-411c-ac6f-5e70f253211a" name="Changes" comment="first commit">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/local_config.properties" beforeDir="false" afterPath="$PROJECT_DIR$/src/local_config.properties" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -206,8 +45,16 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1663863345518</updated>
-      <workItem from="1663863347869" duration="1945000" />
+      <workItem from="1663863347869" duration="2602000" />
     </task>
+    <task id="LOCAL-00001" summary="first commit">
+      <created>1663870353309</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1663870353309</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -223,5 +70,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="first commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="first commit" />
   </component>
 </project>
